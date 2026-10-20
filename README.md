@@ -5,15 +5,14 @@ Aplicação Android desenvolvida em **Kotlin** para calcular o Índice de Massa 
 Este projeto foi desenvolvido como parte do meu percurso de aprendizagem em desenvolvimento Android, com foco na construção de interfaces, lógica de programação e comunicação entre Activities.
 
 ## 📱 Screenshots
-
 ### Splash Screen
-![Splash Screen](app/Splash.png)
+<img src="Splash.png" width="250" />
 
 ### Calculadora
-![Ecrã da calculadora](screenshots/Calculadora.png)
+<img src="Calculadora.png" width="250" />
 
 ### Resultado
-![Ecrã do resultado](screenshots/Resultado.png)
+<img src="Resultado.png" width="250" />
 
 ## ✨ Funcionalidades
 
